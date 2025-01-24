@@ -1,0 +1,29 @@
+# Ignore build files
+*.o
+*.out
+*.exe
+*.obj
+
+# Ignore temporary files
+*.tmp
+*.log
+*.swp
+*.bak
+
+# Ignore IDE files and directories
+.vs/
+.vscode/
+.idea/
+*.code-workspace
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled libraries
+*.dll
+*.so
+*.dylib
+
+# Ignore user-specific settings
+*.user
