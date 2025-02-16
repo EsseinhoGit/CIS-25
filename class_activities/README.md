@@ -1,0 +1,3 @@
+# CIS 25 Assignmnts  
+
+These are activites done in class are named `/class_activites/`...
